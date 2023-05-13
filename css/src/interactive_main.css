@@ -144,16 +144,16 @@ h1 > a {
   box-shadow: 5px 5px 10px rgba( 74, 255, 255, 0.7);
 }
 #project_main nav.others a:nth-of-type(2) {
-  background-color: #55f5cd;
-  box-shadow: 5px 5px 10px rgba( 85, 345, 178, 0.7);
+  background-color: #205065;
+  box-shadow: 5px 5px 10px rgba( 21, 79, 103, 0.7);
 }
 #project_main nav.others a:nth-of-type(3) {
-  background-color: #ff80df;
-  box-shadow: 5px 5px 10px rgba( 255, 128, 223, 0.7);
+  background-color: #ddd;
+  box-shadow: 5px 5px 10px rgba( 51, 51, 51, 0.7);
 }
 #project_main nav.others a:nth-of-type(4) {
-  background-color: #a794fd;
-  box-shadow: 5px 5px 10px rgba( 167, 148, 253, 0.7);
+  background-color: #ff80df;
+  box-shadow: 5px 5px 10px rgba( 255, 128, 223, 0.7);
 }
 #project_main nav.others a {
   display: inline-block;
@@ -239,8 +239,8 @@ h1 > a {
   color: #fff;
   line-height: 32px;
   text-align: center;
-  background: linear-gradient(45deg, #55f5cd, #37fac9);
-  box-shadow: 5px 5px 10px rgba( 85, 345, 178, 0.7);
+  background: linear-gradient(45deg, #205065, #023a52);
+  box-shadow: 5px 5px 10px rgba( 21, 79, 103, 0.7);
 }
 #project_01 ul.contact {
   width: 100%;
@@ -284,16 +284,16 @@ h1 > a {
   box-shadow: 5px 5px 10px rgba( 74, 255, 255, 0.7);
 }
 #project_01 nav.others a:nth-of-type(2) {
-  background-color: #55f5cd;
-  box-shadow: 5px 5px 10px rgba( 85, 345, 178, 0.7);
+  background-color: #205065;
+  box-shadow: 5px 5px 10px rgba( 21, 79, 103, 0.7);
 }
 #project_01 nav.others a:nth-of-type(3) {
-  background-color: #ff80df;
-  box-shadow: 5px 5px 10px rgba( 255, 128, 223, 0.7);
+  background-color: #ddd;
+  box-shadow: 5px 5px 10px rgba( 51, 51, 51, 0.7);
 }
 #project_01 nav.others a:nth-of-type(4) {
-  background-color: #a794fd;
-  box-shadow: 5px 5px 10px rgba( 167, 148, 253, 0.7);
+  background-color: #ff80df;
+  box-shadow: 5px 5px 10px rgba( 51, 51, 51, 0.7);
 }
 #project_01 nav.others a {
   display: inline-block;
@@ -378,8 +378,8 @@ h1 > a {
   color: #fff;
   line-height: 32px;
   text-align: center;
-  background: linear-gradient(45deg, #ff80df, #ff4dd2);
-  box-shadow: 5px 5px 10px rgba( 255, 128, 223, 0.7);
+  background: linear-gradient(45deg, #ddd, #b0afaf);
+  box-shadow: 5px 5px 10px rgba( 51, 51, 51, 0.7);
 }
 #project_02 ul.contact {
   width: 100%;
@@ -423,16 +423,16 @@ h1 > a {
   box-shadow: 5px 5px 10px rgba( 74, 255, 255, 0.7);
 }
 #project_02 nav.others a:nth-of-type(2) {
-  background-color: #55f5cd;
-  box-shadow: 5px 5px 10px rgba( 85, 345, 178, 0.7);
+  background-color: #205065;
+  box-shadow: 5px 5px 10px rgba( 21, 79, 103, 0.7);
 }
 #project_02 nav.others a:nth-of-type(3) {
-  background-color: #ff80df;
-  box-shadow: 5px 5px 10px rgba( 255, 128, 223, 0.7);
+  background-color: #ddd;
+  box-shadow: 5px 5px 10px rgba( 51, 51, 51, 0.7);
 }
 #project_02 nav.others a:nth-of-type(4) {
-  background-color: #a794fd;
-  box-shadow: 5px 5px 10px rgba( 167, 148, 253, 0.7);
+  background-color: #ff80df;
+  box-shadow: 5px 5px 10px rgba( 255, 128, 223, 0.7);
 }
 #project_02 nav.others a {
   display: inline-block;
@@ -516,8 +516,8 @@ h1 > a {
   color: #fff;
   line-height: 32px;
   text-align: center;
-  background: linear-gradient(45deg, #a794fd, #7f62ff);
-  box-shadow: 5px 5px 10px rgba( 167, 148, 253, 0.7);
+  background: linear-gradient(45deg, #ff80df, #ff4dd2);
+  box-shadow: 5px 5px 10px rgba( 255, 128, 223, 0.7);
 }
 #project_03 ul.contact {
   width: 100%;
@@ -561,16 +561,16 @@ h1 > a {
   box-shadow: 5px 5px 10px rgba( 74, 255, 255, 0.7);
 }
 #project_03 nav.others a:nth-of-type(2) {
-  background-color: #55f5cd;
-  box-shadow: 5px 5px 10px rgba( 85, 345, 178, 0.7);
+  background-color: #205065;
+  box-shadow: 5px 5px 10px rgba( 21, 79, 103, 0.7);
 }
 #project_03 nav.others a:nth-of-type(3) {
-  background-color: #ff80df;
-  box-shadow: 5px 5px 10px rgba( 255, 128, 223, 0.7);
+  background-color: #ddd;
+  box-shadow: 5px 5px 10px rgba( 51, 51, 51, 0.7);
 }
 #project_03 nav.others a:nth-of-type(4) {
-  background-color: #a794fd;
-  box-shadow: 5px 5px 10px rgba( 167, 148, 253, 0.7);
+  background-color: #ff80df;
+  box-shadow: 5px 5px 10px rgba( 255, 128, 223, 0.7);
 }
 #project_03 nav.others a {
   display: inline-block;
